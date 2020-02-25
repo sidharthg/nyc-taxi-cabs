@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+# An analytical case study of NYC taxi data
+This project was conducted as part of an Analytics Case Competition. The task for the competition was to select an area to analyze using all or a subset of the taxi data from New York City. Supplementary data sources may also be used. The area selected should reflect a relevant business problem for the taxicab industry.   
 
-You can use the [editor on GitHub](https://github.com/sidharthg/nyc-taxi-cabs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Teams were asked to prepare and give a presentation to share their analysis and results.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
